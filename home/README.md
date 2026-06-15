@@ -80,33 +80,83 @@ Use the assistant for quick routing, then let each section go deeper with the ri
   </tbody>
 </table>
 
-{% columns %}
-{% column %}
-## D2L product areas
+## Choose the right starting point
 
-- *D2L Brightspace* for creating and delivering learning experiences at scale
-- *D2L Lumi* for AI-enabled assistance with more control over how teams work
-- *D2L Creator+* for richer, more interactive course content
-- *D2L Performance+* and *Achievement+* for insights, reporting, and outcomes visibility
-- *D2L Link* for faster integrations across the learning ecosystem
-{% endcolumn %}
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><h3>:door:</h3></td>
+      <td><strong>Access Brightspace</strong></td>
+      <td>Sign-in guidance, account ownership context, and the fastest route to the right school or district login flow.</td>
+      <td><a href="https://app.gitbook.com/s/dqz0zF9DNKrfb9b9GYoL/logging-in-to-brightspace">logging-in-to-brightspace</a></td>
+    </tr>
+    <tr>
+      <td><h3>:bell:</h3></td>
+      <td><strong>Follow product changes</strong></td>
+      <td>See how D2L can centralize release communications for admins, educators, and program teams.</td>
+      <td><a href="release-communication-model.md">release-communication-model</a></td>
+    </tr>
+    <tr>
+      <td><h3>:database:</h3></td>
+      <td><strong>Build on D2L data</strong></td>
+      <td>Jump into the Data Sets API reference for schemas, endpoints, and integration details.</td>
+      <td><a href="https://app.gitbook.com/s/itTj9dQaH3F6ZMfgwPvB/">data-sets-api-reference</a></td>
+    </tr>
+    <tr>
+      <td><h3>:compass:</h3></td>
+      <td><strong>See the docs strategy</strong></td>
+      <td>Understand how a unified hub can separate support, product guidance, and developer content cleanly.</td>
+      <td><a href="why-this-structure-works.md">why-this-structure-works</a></td>
+    </tr>
+  </tbody>
+</table>
 
-{% column %}
-## Who this hub needs to serve
+## Browse by audience
 
-- Learners who need clear sign-in and navigation help
-- Educators and admins who need release updates and product guidance
-- Technical teams who need API reference, schemas, and integration details
-- Program owners who need one trusted front door into the broader D2L knowledge surface
-{% endcolumn %}
-{% endcolumns %}
-
-## Why this structure fits D2L
-
-- D2L already spans support, product communication, and technical documentation
-- Brightspace customers need a simple path from general help into deeper product and API content
-- Developer reference works best as its own section while still living inside a unified brand and search experience
-- AI-assisted routing is useful because the audience mix is broad and intent varies widely
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><h3>:student:</h3></td>
+      <td><strong>Learners and families</strong></td>
+      <td>Start with login help and entry-point guidance.</td>
+      <td><a href="https://app.gitbook.com/s/dqz0zF9DNKrfb9b9GYoL/logging-in-to-brightspace">logging-in-to-brightspace</a></td>
+    </tr>
+    <tr>
+      <td><h3>:school:</h3></td>
+      <td><strong>Educators and admins</strong></td>
+      <td>Track releases, changes, and product communications.</td>
+      <td><a href="https://app.gitbook.com/s/dqz0zF9DNKrfb9b9GYoL/subscribing-to-release-notes">subscribing-to-release-notes</a></td>
+    </tr>
+    <tr>
+      <td><h3>:gear:</h3></td>
+      <td><strong>Developers and analysts</strong></td>
+      <td>Open the technical reference for reporting and integrations.</td>
+      <td><a href="https://app.gitbook.com/s/itTj9dQaH3F6ZMfgwPvB/">data-sets-api-reference</a></td>
+    </tr>
+    <tr>
+      <td><h3>:office:</h3></td>
+      <td><strong>Docs and program owners</strong></td>
+      <td>Review the ownership model behind the hub.</td>
+      <td><a href="docs-operating-model.md">docs-operating-model</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Explore next
 
