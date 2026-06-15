@@ -27,6 +27,12 @@ This section reframes selected public Brightspace Community content into a clean
       <td><a href="logging-in-to-brightspace.md">logging-in-to-brightspace</a></td>
     </tr>
     <tr>
+      <td><h3>:books:</h3></td>
+      <td><strong>Browse the full K-12 source page</strong></td>
+      <td>Includes the complete student documentation topic index plus the original login article body and screenshots from the source Elad shared.</td>
+      <td><a href="student-documentation-k12.md">student-documentation-k12</a></td>
+    </tr>
+    <tr>
       <td><h3>:bell:</h3></td>
       <td><strong>Subscribe to release notes</strong></td>
       <td>Bookmark the release-updates discussion and configure the notification style that fits your role.</td>
@@ -74,3 +80,4 @@ Brightspace accounts, passwords, and institution access are typically managed by
 - assignment, quiz, grade, and progress touchpoints
 - Brightspace Pulse mobile support
 - release-update and account-ownership guidance
+- the full K-12 source topic index and original login article screenshots
