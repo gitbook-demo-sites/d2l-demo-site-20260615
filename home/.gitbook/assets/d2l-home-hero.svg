@@ -1,0 +1,64 @@
+<svg width="1248" height="720" viewBox="0 0 1248 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1160" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7EF"/>
+      <stop offset="1" stop-color="#FFE2C2"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="760" y1="164" x2="1120" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFF6EC"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1248" height="720" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="20"/>
+      <feGaussianBlur stdDeviation="24"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.662745 0 0 0 0 0.364706 0 0 0 0 0.054902 0 0 0 0.12 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+  <rect width="1248" height="720" rx="40" fill="url(#bg)"/>
+  <circle cx="1038" cy="128" r="84" fill="#FFD4A6" fill-opacity="0.7"/>
+  <circle cx="174" cy="578" r="126" fill="#FFE7CB" fill-opacity="0.9"/>
+  <g filter="url(#shadow)">
+    <rect x="80" y="92" width="1088" height="536" rx="30" fill="#FFFDFB"/>
+  </g>
+  <rect x="118" y="128" width="226" height="42" rx="21" fill="#FFF0DE"/>
+  <circle cx="144" cy="149" r="8" fill="#F58220"/>
+  <path d="M164 141H315" stroke="#D78027" stroke-width="10" stroke-linecap="round"/>
+  <path d="M118 212C118 194.327 132.327 180 150 180H678C695.673 180 710 194.327 710 212V292C710 309.673 695.673 324 678 324H150C132.327 324 118 309.673 118 292V212Z" fill="#FFFFFF" stroke="#F2D8BD" stroke-width="2"/>
+  <text x="154" y="236" fill="#9A5B1A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">D2L Documentation Hub</text>
+  <text x="154" y="274" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Find answers, updates,</text>
+  <text x="154" y="318" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">and API guidance faster</text>
+  <rect x="118" y="354" width="592" height="82" rx="24" fill="#FFF8F1" stroke="#F2D8BD" stroke-width="2"/>
+  <circle cx="160" cy="395" r="17" fill="#F58220" fill-opacity="0.16"/>
+  <path d="M155 395H165" stroke="#C86609" stroke-width="3" stroke-linecap="round"/>
+  <path d="M160 390V400" stroke="#C86609" stroke-width="3" stroke-linecap="round"/>
+  <text x="192" y="389" fill="#7B4D1E" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Ask AI or search all D2L docs</text>
+  <text x="192" y="416" fill="#8C6846" font-family="Arial, Helvetica, sans-serif" font-size="16">Login help, release updates, Data Sets API, and support routing</text>
+  <rect x="736" y="180" width="392" height="352" rx="28" fill="url(#panel)" stroke="#F0D1B1" stroke-width="2"/>
+  <rect x="768" y="214" width="328" height="68" rx="22" fill="#FFFFFF" stroke="#E7C39A" stroke-width="2"/>
+  <circle cx="806" cy="248" r="13" fill="#F58220" fill-opacity="0.16"/>
+  <path d="M802 248C802 245.791 803.791 244 806 244H812C814.209 244 816 245.791 816 248V248C816 250.209 814.209 252 812 252H806C803.791 252 802 250.209 802 248V248Z" fill="#C86609"/>
+  <path d="M814 256L820 262" stroke="#C86609" stroke-width="3" stroke-linecap="round"/>
+  <text x="842" y="253" fill="#6B4A2A" font-family="Arial, Helvetica, sans-serif" font-size="18">Search the docs</text>
+  <rect x="768" y="304" width="328" height="60" rx="18" fill="#FFFFFF"/>
+  <text x="794" y="340" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">How do I log in to Brightspace?</text>
+  <rect x="768" y="380" width="328" height="60" rx="18" fill="#FFFFFF"/>
+  <text x="794" y="416" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">How do I subscribe to updates?</text>
+  <rect x="768" y="456" width="328" height="60" rx="18" fill="#FFFFFF"/>
+  <text x="794" y="492" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Where is the Data Sets API?</text>
+  <rect x="118" y="474" width="184" height="108" rx="24" fill="#FFFFFF"/>
+  <text x="148" y="513" fill="#F58220" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">LEARNERS</text>
+  <text x="148" y="545" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Login help</text>
+  <text x="148" y="568" fill="#8C6846" font-family="Arial, Helvetica, sans-serif" font-size="15">Get to the right sign-in path</text>
+  <rect x="326" y="474" width="184" height="108" rx="24" fill="#FFFFFF"/>
+  <text x="356" y="513" fill="#F58220" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">ADMINS</text>
+  <text x="356" y="545" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Updates</text>
+  <text x="356" y="568" fill="#8C6846" font-family="Arial, Helvetica, sans-serif" font-size="15">Track monthly release notes</text>
+  <rect x="534" y="474" width="184" height="108" rx="24" fill="#FFFFFF"/>
+  <text x="564" y="513" fill="#F58220" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">BUILDERS</text>
+  <text x="564" y="545" fill="#2C2118" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">API docs</text>
+  <text x="564" y="568" fill="#8C6846" font-family="Arial, Helvetica, sans-serif" font-size="15">Jump into the data model</text>
+</svg>
