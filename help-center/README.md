@@ -8,7 +8,7 @@ layout:
 
 # Brightspace Help Center
 
-This section reframes selected public Brightspace Community content into a cleaner support entrypoint. It focuses on the questions users ask first: how to sign in, how to stay current on releases, and who actually owns account support.
+This section reframes selected public Brightspace Community content into a cleaner learner-first support entrypoint. It now combines the core access and release flows with a broader Brightspace student help surface.
 
 <table data-view="cards">
   <thead>
@@ -38,6 +38,24 @@ This section reframes selected public Brightspace Community content into a clean
       <td>Clarify the line between D2L product documentation and institution-managed account support.</td>
       <td><a href="support-routes-and-ownership.md">support-routes-and-ownership</a></td>
     </tr>
+    <tr>
+      <td><h3>:compass:</h3></td>
+      <td><strong>Navigate courses and tools</strong></td>
+      <td>Get oriented in Brightspace, find your course, and understand the learner tools you use most often.</td>
+      <td><a href="navigating-courses-and-tools.md">navigating-courses-and-tools</a></td>
+    </tr>
+    <tr>
+      <td><h3>:clipboard:</h3></td>
+      <td><strong>Complete assignments and track grades</strong></td>
+      <td>Move through course activities, submit work, review feedback, and monitor your progress.</td>
+      <td><a href="completing-coursework-and-tracking-progress.md">completing-coursework-and-tracking-progress</a></td>
+    </tr>
+    <tr>
+      <td><h3>:iphone:</h3></td>
+      <td><strong>Use Brightspace Pulse</strong></td>
+      <td>Follow deadlines, view course content, and manage notifications from the mobile learner app.</td>
+      <td><a href="using-brightspace-pulse.md">using-brightspace-pulse</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -48,3 +66,11 @@ Brightspace accounts, passwords, and institution access are typically managed by
 ## Related section
 
 - For developer and analyst workflows, open the [Data sets API Reference](https://app.gitbook.com/s/itTj9dQaH3F6ZMfgwPvB/)
+
+## What is included from the student documentation surface
+
+- Brightspace access and login recovery guidance
+- learner navigation and course-entry workflows
+- assignment, quiz, grade, and progress touchpoints
+- Brightspace Pulse mobile support
+- release-update and account-ownership guidance
