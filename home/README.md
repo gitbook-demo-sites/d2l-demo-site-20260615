@@ -36,13 +36,13 @@ D2L already has the right raw ingredients for a strong external docs experience:
       <td><h3>:graduation_cap:</h3></td>
       <td><strong>Learner support</strong></td>
       <td>Help students find the right login, understand their sign-in method, and know where account support lives.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_HELP/logging-in-to-brightspace">logging-in-to-brightspace</a></td>
+      <td><a href="https://app.gitbook.com/s/dqz0zF9DNKrfb9b9GYoL/logging-in-to-brightspace">logging-in-to-brightspace</a></td>
     </tr>
     <tr>
       <td><h3>:loudspeaker:</h3></td>
       <td><strong>Release communication</strong></td>
       <td>Show how customers can subscribe to monthly release-note updates and configure meaningful notification habits.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_HELP/subscribing-to-release-notes">subscribing-to-release-notes</a></td>
+      <td><a href="https://app.gitbook.com/s/dqz0zF9DNKrfb9b9GYoL/subscribing-to-release-notes">subscribing-to-release-notes</a></td>
     </tr>
     <tr>
       <td><h3>:bar_chart:</h3></td>
